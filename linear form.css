@@ -1,0 +1,84 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: popup, sans-serif;
+}
+
+body{
+        display: flex;
+        place-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        background: rgb(29,48,253);
+        background: linear-gradient(90deg, rgb(145, 29, 253) 0%, rgba(84,69,252,0.061984535024947496) 100%);
+}
+
+.main{
+        width: 420px;
+        background-color: blanchedalmond;
+        color: black;
+        border-radius: 40px;
+        height: 400px;
+}
+
+.main h1{
+        text-align: center;
+        font-size: 35px;
+        margin-top: 20px;
+}
+
+.main .input-box{
+         width: 90%;
+         height: 40px;
+         background: transparent;
+         margin: 30px 0;
+         margin-left: 20px;
+       
+}
+.input-box input{
+       width: 100%;
+       height: 100%;
+       background:gray;
+       border: none;
+       outline: none;
+       border: 2px solid white;
+       border-radius: 50px;
+      
+}
+
+.input-box input::placeholder{
+       color: white;
+       font-size: 20px;
+       padding-left: 10px;
+
+}
+
+.main .btn{
+         width: 90%;
+         height: 40px;
+         background: rgb(122, 2, 108);
+         background: linear-gradient(-135deg, #b8abb7, #df2ae6);
+         border: none;
+         outline: none;
+         border-radius: 40px;
+         cursor: pointer;
+         font-size: 20px;
+         color: white;
+         font-weight: 600;
+         margin-left: 20px;
+}
+
+.logo{
+        margin-top: 30px;
+        margin-left: 50px;
+        width: 30%;
+        height: 30px;
+        border: none;
+        outline: none;
+        border-radius: 30px;
+        background: rgb(143, 117, 117);
+        font-size: 15px;
+        color: #fff;
+        font-weight: 10px;
+}
