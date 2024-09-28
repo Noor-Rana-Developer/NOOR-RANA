@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+       background-color: white;
+       color: black;
+       font-size: 30px;
+       text-align: center;
+       font-weight: 30px;
+       margin-top: 20px;
+       margin-right: 20px;
+       margin-left: 20px;
+}
+
+body{
+       background-color: rgb(100, 73, 36);
+       font-family: 'poppins', sans-serif;
+       align-items: center;
+       justify-content: center;
+      display: block;
+}
+
+.hero{
+        width: 900px;
+        height: 200px;
+        margin-top: 40px;
+        display: flex;
+        align-items:  center;
+        margin-left: 200px;
+}
+
+.box{
+      width: 250px;
+      height: 235px;
+      margin: 10px;
+      background-color: white;
+      border-radius: 30px;
+}
+img:hover{
+         transform: scale(2,2);
+}
+
+img{
+      width:250px;
+      height: 190px;
+      padding-top: 10px;
+      align-items: center;
+     
+     
+}
+
+
+h2{
+ 
+    text-align: center;
+     color: white;
+     font-size: 30px;
+     font-weight: 40px;
+     background-color: black;
+     border-radius: 30px;
+    
+}
+
+
+.main{
+    width: 250px;
+    height: 235px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 40px;
+   
+}
+
+
+img{
+    width:250px;
+    height: 190px;
+    padding-top: 10px;
+    align-items: center;
+}   
+
+.max{
+    width: 250px;
+    height: 235px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 40px;
+}
+
+img{
+    width:250px;
+    height: 190px;
+    padding-top: 10px;
+    align-items: center;
+}   
+
+
+.sub-hero{
+    width: 900px;
+    height: 400px;
+    margin-top: 50px;
+    display: flex;
+   margin-left: 200px;
+
+}
+
+.box1{
+  width: 250px;
+  height: 235px;
+  margin: 10px;
+  background-color: white;
+  border-radius: 30px;
+}
+
+img{
+  width:250px;
+  height: 190px;
+  padding-top: 10px;
+  align-items: center;
+}   
+
+h2{
+ text-align: center;
+ color: white;
+ font-size: 30px;
+ font-weight: 40px;
+ background-color: black;
+ border-radius: 30px;
+
+}
+
+
+.main1{
+width: 280px;
+height: 235px;
+margin: 10px;
+background-color: white;
+border-radius: 30px;
+margin-left: 40px;
+padding-left: 20px;
+}
+
+
+img{
+width:250px;
+height: 190px;
+padding-top: 10px;
+align-items: center;
+}   
+
+.max1{
+width: 250px;
+height: 235px;
+margin: 10px;
+background-color: white;
+border-radius: 30px;
+margin-left: 40px;
+margin-top: 10px;
+}
+
+img{
+width:250px;
+height: 190px;
+padding-top: 10px;
+align-items: center;
+}   
